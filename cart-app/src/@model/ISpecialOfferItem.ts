@@ -1,5 +1,5 @@
 export default interface ISpecialOfferItem {
-    id: number;
-    name: string;
-    savingAmount: number;
-  }
+  id: number;
+  name: string;
+  savingAmount: number;
+}

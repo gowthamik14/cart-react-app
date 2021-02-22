@@ -1,0 +1,1267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div
+    class="flex justify-around h-screen m-4 border-2 border-gray-300"
+  >
+    <section
+      class="w-2/5 bg-white m-4 border-1 border-gray-200 shadow-lg"
+    >
+      <div>
+        <div
+          class="p-2"
+        >
+          <span
+            class="text-3xl"
+          >
+            Products
+          </span>
+          <hr />
+          <ul>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.10
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Milk
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.50
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Cheese
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.90
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Soup
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.60
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Butter
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.20
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section
+      class="w-3/5 bg-white m-4 border-1 border-gray-200 shadow-lg overflow-y-scroll"
+    >
+      <div
+        class="p-2"
+      >
+        <span
+          class="text-3xl"
+        >
+          Basket
+        </span>
+        <hr />
+        <ul />
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Sub Total: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Savings: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Total Amount: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`renders learn react link 2`] = `
+<div>
+  <div
+    class="flex justify-around h-screen m-4 border-2 border-gray-300"
+  >
+    <section
+      class="w-2/5 bg-white m-4 border-1 border-gray-200 shadow-lg"
+    >
+      <div>
+        <div
+          class="p-2"
+        >
+          <span
+            class="text-3xl"
+          >
+            Products
+          </span>
+          <hr />
+          <ul>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.10
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-gray-400"
+                  disabled=""
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Milk
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.50
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Cheese
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.90
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Soup
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.60
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Butter
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.20
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section
+      class="w-3/5 bg-white m-4 border-1 border-gray-200 shadow-lg overflow-y-scroll"
+    >
+      <div
+        class="p-2"
+      >
+        <span
+          class="text-3xl"
+        >
+          Basket
+        </span>
+        <hr />
+        <ul>
+          <li
+            class="flex flex-col list-decimal list-inside border-b-2 border-gray-100	p-2"
+          >
+            <div
+              class="flex justify-between items-center"
+            >
+              <span
+                class="text-lg"
+              >
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span
+                  class="text-lg"
+                >
+                  1.10
+                </span>
+              </div>
+              <span>
+                <button
+                  class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  +
+                </button>
+                <span
+                  class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+                >
+                  1
+                </span>
+                <button
+                  class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  -
+                </button>
+              </span>
+            </div>
+            <div>
+              <div
+                class="flex flex-col justify-center"
+              >
+                <div
+                  class="flex justify-end my-2 border-b-2 border-gray-100 text-gray-500"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item price 
+                  </div>
+                  <div>
+                    £1.10 * 1 = £1.10
+                  </div>
+                </div>
+                <div
+                  class="flex justify-end my-2 items-center"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item cost 
+                  </div>
+                  <div>
+                    £1.10
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Sub Total: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 1.10
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Savings: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Total Amount: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 1.10
+          </span>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`renders learn react link 3`] = `
+<div>
+  <div
+    class="flex justify-around h-screen m-4 border-2 border-gray-300"
+  >
+    <section
+      class="w-2/5 bg-white m-4 border-1 border-gray-200 shadow-lg"
+    >
+      <div>
+        <div
+          class="p-2"
+        >
+          <span
+            class="text-3xl"
+          >
+            Products
+          </span>
+          <hr />
+          <ul>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.10
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-gray-400"
+                  disabled=""
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Milk
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.50
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Cheese
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.90
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Soup
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.60
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Butter
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.20
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section
+      class="w-3/5 bg-white m-4 border-1 border-gray-200 shadow-lg overflow-y-scroll"
+    >
+      <div
+        class="p-2"
+      >
+        <span
+          class="text-3xl"
+        >
+          Basket
+        </span>
+        <hr />
+        <ul>
+          <li
+            class="flex flex-col list-decimal list-inside border-b-2 border-gray-100	p-2"
+          >
+            <div
+              class="flex justify-between items-center"
+            >
+              <span
+                class="text-lg"
+              >
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span
+                  class="text-lg"
+                >
+                  1.10
+                </span>
+              </div>
+              <span>
+                <button
+                  class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  +
+                </button>
+                <span
+                  class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+                >
+                  2
+                </span>
+                <button
+                  class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  -
+                </button>
+              </span>
+            </div>
+            <div>
+              <div
+                class="flex flex-col justify-center"
+              >
+                <div
+                  class="flex justify-end my-2 border-b-2 border-gray-100 text-gray-500"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item price 
+                  </div>
+                  <div>
+                    £1.10 * 2 = £2.20
+                  </div>
+                </div>
+                <div
+                  class="flex justify-end my-2 items-center"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item cost 
+                  </div>
+                  <div>
+                    £2.20
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Sub Total: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 2.20
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Savings: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Total Amount: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 2.20
+          </span>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`renders learn react link 4`] = `
+<div>
+  <div
+    class="flex justify-around h-screen m-4 border-2 border-gray-300"
+  >
+    <section
+      class="w-2/5 bg-white m-4 border-1 border-gray-200 shadow-lg"
+    >
+      <div>
+        <div
+          class="p-2"
+        >
+          <span
+            class="text-3xl"
+          >
+            Products
+          </span>
+          <hr />
+          <ul>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.10
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-gray-400"
+                  disabled=""
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Milk
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.50
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Cheese
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.90
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Soup
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.60
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Butter
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.20
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section
+      class="w-3/5 bg-white m-4 border-1 border-gray-200 shadow-lg overflow-y-scroll"
+    >
+      <div
+        class="p-2"
+      >
+        <span
+          class="text-3xl"
+        >
+          Basket
+        </span>
+        <hr />
+        <ul>
+          <li
+            class="flex flex-col list-decimal list-inside border-b-2 border-gray-100	p-2"
+          >
+            <div
+              class="flex justify-between items-center"
+            >
+              <span
+                class="text-lg"
+              >
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span
+                  class="text-lg"
+                >
+                  1.10
+                </span>
+              </div>
+              <span>
+                <button
+                  class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  +
+                </button>
+                <span
+                  class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+                >
+                  1
+                </span>
+                <button
+                  class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  -
+                </button>
+              </span>
+            </div>
+            <div>
+              <div
+                class="flex flex-col justify-center"
+              >
+                <div
+                  class="flex justify-end my-2 border-b-2 border-gray-100 text-gray-500"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item price 
+                  </div>
+                  <div>
+                    £1.10 * 1 = £1.10
+                  </div>
+                </div>
+                <div
+                  class="flex justify-end my-2 items-center"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item cost 
+                  </div>
+                  <div>
+                    £1.10
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Sub Total: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 1.10
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Savings: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Total Amount: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 1.10
+          </span>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`renders learn react link 5`] = `
+<div>
+  <div
+    class="flex justify-around h-screen m-4 border-2 border-gray-300"
+  >
+    <section
+      class="w-2/5 bg-white m-4 border-1 border-gray-200 shadow-lg"
+    >
+      <div>
+        <div
+          class="p-2"
+        >
+          <span
+            class="text-3xl"
+          >
+            Products
+          </span>
+          <hr />
+          <ul>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.10
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-gray-400"
+                  disabled=""
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Milk
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.50
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Cheese
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.90
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Soup
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  0.60
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+            <li
+              class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+            >
+              <span>
+                Butter
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span>
+                  1.20
+                </span>
+                <button
+                  class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-blue-400"
+                >
+                  Add
+                </button>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section
+      class="w-3/5 bg-white m-4 border-1 border-gray-200 shadow-lg overflow-y-scroll"
+    >
+      <div
+        class="p-2"
+      >
+        <span
+          class="text-3xl"
+        >
+          Basket
+        </span>
+        <hr />
+        <ul>
+          <li
+            class="flex flex-col list-decimal list-inside border-b-2 border-gray-100	p-2"
+          >
+            <div
+              class="flex justify-between items-center"
+            >
+              <span
+                class="text-lg"
+              >
+                Bread
+              </span>
+              <div>
+                <span
+                  class="text-gray-400 pr-1"
+                >
+                  £
+                </span>
+                <span
+                  class="text-lg"
+                >
+                  1.10
+                </span>
+              </div>
+              <span>
+                <button
+                  class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  +
+                </button>
+                <span
+                  class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+                >
+                  0
+                </span>
+                <button
+                  class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+                >
+                  -
+                </button>
+              </span>
+            </div>
+            <div>
+              <div
+                class="flex flex-col justify-center"
+              >
+                <div
+                  class="flex justify-end my-2 border-b-2 border-gray-100 text-gray-500"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item price 
+                  </div>
+                  <div>
+                    £1.10 * 0 = £0.00
+                  </div>
+                </div>
+                <div
+                  class="flex justify-end my-2 items-center"
+                >
+                  <div
+                    class="mx-2"
+                  >
+                    Item cost 
+                  </div>
+                  <div>
+                    £0.00
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Sub Total: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Savings: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-1xl"
+          >
+            Total Amount: 
+          </span>
+          <span
+            class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+          >
+            £ 0.00
+          </span>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

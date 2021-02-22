@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render H1 1`] = `
+<div>
+  <span
+    class="text-6xl"
+  />
+</div>
+`;

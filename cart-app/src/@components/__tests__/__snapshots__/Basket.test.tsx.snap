@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div
+    class="p-2"
+  >
+    <span
+      class="text-3xl"
+    >
+      Basket
+    </span>
+    <hr />
+    <ul>
+      <li
+        class="flex flex-col list-decimal list-inside border-b-2 border-gray-100	p-2"
+      >
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-lg"
+          >
+            cheese
+          </span>
+          <div>
+            <span
+              class="text-gray-400 pr-1"
+            >
+              £
+            </span>
+            <span
+              class="text-lg"
+            >
+              0.20
+            </span>
+          </div>
+          <span>
+            <button
+              class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+            >
+              +
+            </button>
+            <span
+              class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+            >
+              3
+            </span>
+            <button
+              class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+            >
+              -
+            </button>
+          </span>
+        </div>
+        <div>
+          <div
+            class="flex flex-col justify-center"
+          >
+            <div
+              class="flex justify-end my-2 border-b-2 border-gray-100 text-gray-500"
+            >
+              <div
+                class="mx-2"
+              >
+                Item price 
+              </div>
+              <div>
+                £0.20 * 3 = £0.60
+              </div>
+            </div>
+            <div
+              class="flex justify-end items-center my-2 border-b-2 border-gray-100 text-red-500"
+            >
+              <div
+                class="mx-2"
+              >
+                Savings
+              </div>
+              <div>
+                £0.10
+              </div>
+            </div>
+            <div
+              class="flex justify-end my-2 items-center"
+            >
+              <div
+                class="mx-2"
+              >
+                Item cost 
+              </div>
+              <div>
+                £0.50
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li
+        class="flex flex-col list-decimal list-inside border-b-2 border-gray-100	p-2"
+      >
+        <div
+          class="flex justify-between items-center"
+        >
+          <span
+            class="text-lg"
+          >
+            Butter
+          </span>
+          <div>
+            <span
+              class="text-gray-400 pr-1"
+            >
+              £
+            </span>
+            <span
+              class="text-lg"
+            >
+              0.20
+            </span>
+          </div>
+          <span>
+            <button
+              class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+            >
+              +
+            </button>
+            <span
+              class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+            >
+              3
+            </span>
+            <button
+              class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+            >
+              -
+            </button>
+          </span>
+        </div>
+        <div>
+          <div
+            class="flex flex-col justify-center"
+          >
+            <div
+              class="flex justify-end my-2 border-b-2 border-gray-100 text-gray-500"
+            >
+              <div
+                class="mx-2"
+              >
+                Item price 
+              </div>
+              <div>
+                £0.20 * 3 = £0.60
+              </div>
+            </div>
+            <div
+              class="flex justify-end items-center my-2 border-b-2 border-gray-100 text-red-500"
+            >
+              <div
+                class="mx-2"
+              >
+                Savings
+              </div>
+              <div>
+                £0.30
+              </div>
+            </div>
+            <div
+              class="flex justify-end my-2 items-center"
+            >
+              <div
+                class="mx-2"
+              >
+                Item cost 
+              </div>
+              <div>
+                £0.30
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+    <div
+      class="flex justify-between items-center"
+    >
+      <span
+        class="text-1xl"
+      >
+        Sub Total: 
+      </span>
+      <span
+        class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+      >
+        £ 0.60
+      </span>
+    </div>
+    <div
+      class="flex justify-between items-center"
+    >
+      <span
+        class="text-1xl"
+      >
+        Savings: 
+      </span>
+      <span
+        class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+      >
+        £ 0.40
+      </span>
+    </div>
+    <div
+      class="flex justify-between items-center"
+    >
+      <span
+        class="text-1xl"
+      >
+        Total Amount: 
+      </span>
+      <span
+        class="ml-4 p-2 w-15 text-right text-blue rounded-md"
+      >
+        £ 0.20
+      </span>
+    </div>
+  </div>
+</div>
+`;

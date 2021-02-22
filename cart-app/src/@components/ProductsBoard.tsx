@@ -7,18 +7,22 @@ import Products from './Products';
 const ProductsBoard = ({
   products,
   handleAddProduct,
-  productsAddedToBasket
+  productsAddedToBasket,
 }: {
   products: IProduct[];
   handleAddProduct: (item: IProduct) => void;
-  productsAddedToBasket : IBasketItem[]
+  productsAddedToBasket: IBasketItem[];
 }): JSX.Element => {
   return (
     <div>
       <div className="p-2">
         <H4>Products</H4>
         <hr />
-        <Products products={products} productsAddedToBasket={productsAddedToBasket} handleAddProduct={handleAddProduct} />
+        <Products
+          products={products}
+          productsAddedToBasket={productsAddedToBasket}
+          handleAddProduct={handleAddProduct}
+        />
       </div>
     </div>
   );

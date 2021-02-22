@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <ul>
+    <li
+      class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+    >
+      <span>
+        cheese
+      </span>
+      <div>
+        <span
+          class="text-gray-400 pr-1"
+        >
+          £
+        </span>
+        <span>
+          0.20
+        </span>
+        <button
+          class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-gray-400"
+          disabled=""
+        >
+          Add
+        </button>
+      </div>
+    </li>
+    <li
+      class="flex justify-between items-center list-decimal list-inside border-b-2 border-gray-100	p-2"
+    >
+      <span>
+        Butter
+      </span>
+      <div>
+        <span
+          class="text-gray-400 pr-1"
+        >
+          £
+        </span>
+        <span>
+          0.20
+        </span>
+        <button
+          class="ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 bg-gray-400"
+          disabled=""
+        >
+          Add
+        </button>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

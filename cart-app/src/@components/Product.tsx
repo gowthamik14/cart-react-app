@@ -2,8 +2,8 @@ import React from 'react';
 import IProduct from '@model/IProduct';
 
 interface IProductProp extends IProduct {
-  handleAddProduct: (item: IProduct) => void,
-  allowAdd: boolean
+  handleAddProduct: (item: IProduct) => void;
+  allowAdd: boolean;
 }
 
 const Product: React.FC<IProductProp> = ({
@@ -11,7 +11,7 @@ const Product: React.FC<IProductProp> = ({
   name,
   price,
   handleAddProduct,
-  allowAdd = true
+  allowAdd = true,
 }) => {
   return (
     <li
@@ -23,9 +23,11 @@ const Product: React.FC<IProductProp> = ({
         <span className="text-gray-400 pr-1">£</span>
         <span>{(price / 100).toFixed(2)}</span>
         <button
-          className= {`ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 ${allowAdd ? `bg-blue-400`: 'bg-gray-400' }` }
+          className={`ml-4 p-2 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2 ${
+            allowAdd ? `bg-blue-400` : 'bg-gray-400'
+          }`}
           onClick={() => handleAddProduct({ id, name, price })}
-          disabled= {!allowAdd} 
+          disabled={!allowAdd}
         >
           Add
         </button>

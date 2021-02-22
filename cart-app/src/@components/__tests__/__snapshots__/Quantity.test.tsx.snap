@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <span>
+    <button
+      class="ml-4 p-2 bg-blue-400 text-white rounded-md focus:outline-none focus:ring-2 ring-blue-200 ring-offset-2"
+    >
+      +
+    </button>
+    <span
+      class="ml-4 p-2 w-10 text-center text-blue rounded-md"
+    >
+      3
+    </span>
+    <button
+      class="ml-4 p-2  bg-white-400 text-blue rounded-md border-2 border-blue-400 focus:outline-blue focus:ring-2 ring-blue-200 ring-offset-2"
+    >
+      -
+    </button>
+  </span>
+</div>
+`;
